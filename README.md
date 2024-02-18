@@ -1,5 +1,12 @@
 # Nuxt 3 Minimal Starter
 
+## Мысли
+
+Ассоциации - карточки
+Списки
+Популярные слова
+Интервальное повторение
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
