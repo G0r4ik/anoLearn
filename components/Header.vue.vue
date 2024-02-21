@@ -1,7 +1,7 @@
 <template>
   <header class="fixed left-0 top-0 w-full">
     <div class="container">
-      <div class="header__inner">
+      <div class="flex justify-between items-center">
         <NuxtLink class="go-back flex items-center gap-1" :to="props.to">
           <svg class="feather go-back__icon">
             <use href="/feather-sprite.svg#arrow-left" />

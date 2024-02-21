@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     'shadcn-nuxt',
   ],
+  css: ['@/assets/css/base.css'],
 
   shadcn: {
     prefix: '',

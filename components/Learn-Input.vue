@@ -23,6 +23,7 @@ const props = defineProps({
 })
 
 const mainInput = defineModel({ default: '' })
+
 const attempt = ref(0)
 
 function checkTranslate() {
